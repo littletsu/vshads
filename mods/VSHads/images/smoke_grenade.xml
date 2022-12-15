@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="smoke_grenade.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Granada de Humo0000" x="0" y="0" width="415" height="371" frameX="-1813" frameY="-198" frameWidth="2228" frameHeight="984"/>
+	<SubTexture name="Granada de Humo0001" x="415" y="0" width="405" height="338" frameX="-1741" frameY="-157" frameWidth="2228" frameHeight="984"/>
+	<SubTexture name="Granada de Humo0002" x="820" y="0" width="385" height="337" frameX="-1672" frameY="-119" frameWidth="2228" frameHeight="984"/>
+	<SubTexture name="Granada de Humo0003" x="1205" y="0" width="385" height="296" frameX="-1605" frameY="-98" frameWidth="2228" frameHeight="984"/>
+	<SubTexture name="Granada de Humo0004" x="1590" y="0" width="358" height="293" frameX="-1518" frameY="-75" frameWidth="2228" frameHeight="984"/>
+	<SubTexture name="Granada de Humo0005" x="0" y="371" width="370" height="269" frameX="-1419" frameY="-71" frameWidth="2228" frameHeight="984"/>
+	<SubTexture name="Granada de Humo0006" x="370" y="371" width="373" height="276" frameX="-1348" frameY="-50" frameWidth="2228" frameHeight="984"/>
+	<SubTexture name="Granada de Humo0007" x="743" y="371" width="368" height="265" frameX="-1303" frameY="-43" frameWidth="2228" frameHeight="984"/>
+	<SubTexture name="Granada de Humo0008" x="1111" y="371" width="340" height="269" frameX="-1222" frameY="-26" frameWidth="2228" frameHeight="984"/>
+	<SubTexture name="Granada de Humo0009" x="1111" y="371" width="340" height="269" frameX="-1203" frameY="-22" frameWidth="2228" frameHeight="984"/>
+	<SubTexture name="Granada de Humo0010" x="1451" y="371" width="345" height="231" frameX="-1156" frameY="-29" frameWidth="2228" frameHeight="984"/>
+	<SubTexture name="Granada de Humo0011" x="0" y="647" width="343" height="273" frameX="-1094" frameY="-11" frameWidth="2228" frameHeight="984"/>
+	<SubTexture name="Granada de Humo0012" x="343" y="647" width="365" height="306" frameX="-1071" frameY="0" frameWidth="2228" frameHeight="984"/>
+	<SubTexture name="Granada de Humo0013" x="708" y="647" width="385" height="296" frameX="-1040" frameY="-17" frameWidth="2228" frameHeight="984"/>
+	<SubTexture name="Granada de Humo0014" x="708" y="647" width="385" height="296" frameX="-1018" frameY="-41" frameWidth="2228" frameHeight="984"/>
+	<SubTexture name="Granada de Humo0015" x="1093" y="647" width="402" height="330" frameX="-961" frameY="-40" frameWidth="2228" frameHeight="984"/>
+	<SubTexture name="Granada de Humo0016" x="1495" y="647" width="388" height="342" frameX="-926" frameY="-45" frameWidth="2228" frameHeight="984"/>
+	<SubTexture name="Granada de Humo0017" x="0" y="989" width="398" height="363" frameX="-851" frameY="-99" frameWidth="2228" frameHeight="984"/>
+	<SubTexture name="Granada de Humo0018" x="398" y="989" width="415" height="372" frameX="-807" frameY="-117" frameWidth="2228" frameHeight="984"/>
+	<SubTexture name="Granada de Humo0019" x="398" y="989" width="415" height="372" frameX="-767" frameY="-166" frameWidth="2228" frameHeight="984"/>
+	<SubTexture name="Granada de Humo0020" x="813" y="989" width="405" height="388" frameX="-721" frameY="-199" frameWidth="2228" frameHeight="984"/>
+	<SubTexture name="Granada de Humo0021" x="1218" y="989" width="416" height="379" frameX="-669" frameY="-260" frameWidth="2228" frameHeight="984"/>
+	<SubTexture name="Granada de Humo0022" x="813" y="989" width="405" height="388" frameX="-573" frameY="-322" frameWidth="2228" frameHeight="984"/>
+	<SubTexture name="Granada de Humo0023" x="813" y="989" width="405" height="388" frameX="-490" frameY="-396" frameWidth="2228" frameHeight="984"/>
+	<SubTexture name="Granada de Humo0024" x="0" y="1377" width="416" height="390" frameX="-402" frameY="-469" frameWidth="2228" frameHeight="984"/>
+	<SubTexture name="Granada de Humo0025" x="813" y="989" width="405" height="388" frameX="-295" frameY="-552" frameWidth="2228" frameHeight="984"/>
+	<SubTexture name="Granada de Humo0026" x="416" y="1377" width="427" height="413" frameX="-253" frameY="-571" frameWidth="2228" frameHeight="984"/>
+	<SubTexture name="Granada de Humo0027" x="843" y="1377" width="324" height="377" frameX="-166" frameY="-532" frameWidth="2228" frameHeight="984"/>
+	<SubTexture name="Granada de Humo0028" x="1167" y="1377" width="274" height="253" frameX="-93" frameY="-626" frameWidth="2228" frameHeight="984"/>
+	<SubTexture name="Granada de Humo0029" x="1441" y="1377" width="261" height="238" frameX="-28" frameY="-646" frameWidth="2228" frameHeight="984"/>
+	<SubTexture name="Granada de Humo0030" x="1702" y="1377" width="243" height="217" frameX="0" frameY="-727" frameWidth="2228" frameHeight="984"/>
+	<SubTexture name="Granada de Humo0031" x="0" y="1790" width="241" height="216" frameX="-3" frameY="-741" frameWidth="2228" frameHeight="984"/>
+	<SubTexture name="Granada de Humo0032" x="0" y="1790" width="241" height="216" frameX="-3" frameY="-741" frameWidth="2228" frameHeight="984"/>
+	<SubTexture name="Granada de Humo0033" x="0" y="1790" width="241" height="216" frameX="-3" frameY="-741" frameWidth="2228" frameHeight="984"/>
+	<SubTexture name="Granada de Humo0034" x="0" y="1790" width="241" height="216" frameX="-3" frameY="-741" frameWidth="2228" frameHeight="984"/>
+	<SubTexture name="Granada de Humo0035" x="0" y="1790" width="241" height="216" frameX="-3" frameY="-741" frameWidth="2228" frameHeight="984"/>
+	<SubTexture name="Granada de Humo0036" x="0" y="1790" width="241" height="216" frameX="-3" frameY="-741" frameWidth="2228" frameHeight="984"/>
+	<SubTexture name="Granada de Humo0037" x="0" y="1790" width="241" height="216" frameX="-3" frameY="-741" frameWidth="2228" frameHeight="984"/>
+	<SubTexture name="Granada de Humo0038" x="0" y="1790" width="241" height="216" frameX="-3" frameY="-741" frameWidth="2228" frameHeight="984"/>
+	<SubTexture name="Granada de Humo0039" x="0" y="1790" width="241" height="216" frameX="-3" frameY="-741" frameWidth="2228" frameHeight="984"/>
+	<SubTexture name="Granada de Humo0040" x="0" y="1790" width="241" height="216" frameX="-3" frameY="-741" frameWidth="2228" frameHeight="984"/>
+	<SubTexture name="Granada de Humo0041" x="0" y="1790" width="241" height="216" frameX="-3" frameY="-741" frameWidth="2228" frameHeight="984"/>
+	<SubTexture name="Granada de Humo0042" x="0" y="1790" width="241" height="216" frameX="-3" frameY="-741" frameWidth="2228" frameHeight="984"/>
+	<SubTexture name="Granada de Humo0043" x="0" y="1790" width="241" height="216" frameX="-3" frameY="-741" frameWidth="2228" frameHeight="984"/>
+	<SubTexture name="Granada de Humo0044" x="0" y="1790" width="241" height="216" frameX="-3" frameY="-741" frameWidth="2228" frameHeight="984"/>
+	<SubTexture name="Granada de Humo0045" x="0" y="1790" width="241" height="216" frameX="-3" frameY="-741" frameWidth="2228" frameHeight="984"/>
+	<SubTexture name="Granada de Humo0046" x="0" y="1790" width="241" height="216" frameX="-3" frameY="-741" frameWidth="2228" frameHeight="984"/>
+	<SubTexture name="Granada de Humo0047" x="0" y="1790" width="241" height="216" frameX="-3" frameY="-741" frameWidth="2228" frameHeight="984"/>
+	<SubTexture name="Granada de Humo0048" x="0" y="1790" width="241" height="216" frameX="-3" frameY="-741" frameWidth="2228" frameHeight="984"/>
+	<SubTexture name="Granada de Humo0049" x="0" y="1790" width="241" height="216" frameX="-3" frameY="-741" frameWidth="2228" frameHeight="984"/>
+	<SubTexture name="Granada de Humo0050" x="0" y="1790" width="241" height="216" frameX="-3" frameY="-741" frameWidth="2228" frameHeight="984"/>
+	<SubTexture name="Granada de Humo0051" x="0" y="1790" width="241" height="216" frameX="-3" frameY="-741" frameWidth="2228" frameHeight="984"/>
+	<SubTexture name="Granada de Humo0052" x="0" y="1790" width="241" height="216" frameX="-3" frameY="-741" frameWidth="2228" frameHeight="984"/>
+	<SubTexture name="Granada de Humo0053" x="0" y="1790" width="241" height="216" frameX="-3" frameY="-741" frameWidth="2228" frameHeight="984"/>
+	<SubTexture name="Granada de Humo0054" x="0" y="1790" width="241" height="216" frameX="-3" frameY="-741" frameWidth="2228" frameHeight="984"/>
+	<SubTexture name="Granada de Humo0055" x="0" y="1790" width="241" height="216" frameX="-3" frameY="-741" frameWidth="2228" frameHeight="984"/>
+	<SubTexture name="Granada de Humo0056" x="0" y="1790" width="241" height="216" frameX="-3" frameY="-741" frameWidth="2228" frameHeight="984"/>
+	<SubTexture name="Granada de Humo0057" x="0" y="1790" width="241" height="216" frameX="-3" frameY="-741" frameWidth="2228" frameHeight="984"/>
+	<SubTexture name="Granada de Humo0058" x="0" y="1790" width="241" height="216" frameX="-3" frameY="-741" frameWidth="2228" frameHeight="984"/>
+	<SubTexture name="Granada de Humo0059" x="0" y="1790" width="241" height="216" frameX="-3" frameY="-741" frameWidth="2228" frameHeight="984"/>
+</TextureAtlas>
