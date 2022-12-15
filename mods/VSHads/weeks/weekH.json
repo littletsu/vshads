@@ -1,4 +1,16 @@
 {
+	"storyName": "HADS",
+	"difficulties": "",
+	"hideFreeplay": false,
+	"weekBackground": "unturned",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
 	"songs": [
 		[
 			"Kalio",
@@ -28,23 +40,11 @@
 			]
 		]
 	],
-	"hiddenUntilUnlocked": false,
-	"hideFreeplay": false,
-	"weekBackground": "stage",
-	"difficulties": "",
 	"weekCharacters": [
 		"hadsdrunfel",
 		"bf",
 		"gf"
 	],
-	"storyName": "HADS",
-	"weekName": "HADS",
-	"freeplayColor": [
-		146,
-		113,
-		253
-	],
-	"hideStoryMode": false,
-	"weekBefore": "tutorial",
-	"startUnlocked": true
+	"hiddenUntilUnlocked": false,
+	"weekName": "HADS"
 }
