@@ -2,7 +2,7 @@ local videoCountdown = false
 local allowCountdown = false
 function onStartCountdown()
         if not videoCountdown and isStoryMode and not seenCutscene then --Block the first countdown
-                startVideo('Cinematic_1');
+                startVideo('Cinematic');
                 videoCountdown = true;
                 return Function_Stop;
         end
