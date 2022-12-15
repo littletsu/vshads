@@ -1,0 +1,11 @@
+{
+	"name": "VS Hads",
+	"description": "VS Hads",
+	"restart":false,
+	"runsGlobally": false,
+	"color": [
+		86,
+		133,
+		255
+	]
+}

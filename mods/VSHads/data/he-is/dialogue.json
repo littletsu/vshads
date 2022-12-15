@@ -1,0 +1,20 @@
+{
+	"dialogue": [
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "hadsdrunfel",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "among us"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "le robaste el sonido de la cinematica a among us"
+		}
+	]
+}

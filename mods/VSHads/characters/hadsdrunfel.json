@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				297,
+				337
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": true,
+			"name": "Hadsdrunfel Idle"
+		},
+		{
+			"offsets": [
+				297,
+				337
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "HADSDRUNFEL DOWN POSE"
+		},
+		{
+			"offsets": [
+				297,
+				337
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "Hadsdrunfel Up Pose"
+		},
+		{
+			"offsets": [
+				297,
+				337
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "Hadsdrunfel Pose Left"
+		},
+		{
+			"offsets": [
+				297,
+				337
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "Hadsdrunfel Left Pose"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Hadsdrunfel_Assets",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "icon-hadsdrunfel",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		90,
+		255
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 0.8
+}

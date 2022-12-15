@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Hadsdrunfel_Assets.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="HADSDRUNFEL DOWN POSE0000" x="0" y="0" width="756" height="1323" frameX="-2" frameY="0" frameWidth="758" frameHeight="1323"/>
+	<SubTexture name="HADSDRUNFEL DOWN POSE0001" x="0" y="0" width="756" height="1323" frameX="-2" frameY="0" frameWidth="758" frameHeight="1323"/>
+	<SubTexture name="HADSDRUNFEL DOWN POSE0002" x="756" y="0" width="756" height="1323" frameX="0" frameY="0" frameWidth="758" frameHeight="1323"/>
+	<SubTexture name="HADSDRUNFEL DOWN POSE0003" x="756" y="0" width="756" height="1323" frameX="0" frameY="0" frameWidth="758" frameHeight="1323"/>
+	<SubTexture name="HADSDRUNFEL DOWN POSE0004" x="756" y="0" width="756" height="1323" frameX="0" frameY="0" frameWidth="758" frameHeight="1323"/>
+	<SubTexture name="HADSDRUNFEL DOWN POSE0005" x="756" y="0" width="756" height="1323" frameX="0" frameY="0" frameWidth="758" frameHeight="1323"/>
+	<SubTexture name="HADSDRUNFEL DOWN POSE0006" x="756" y="0" width="756" height="1323" frameX="0" frameY="0" frameWidth="758" frameHeight="1323"/>
+	<SubTexture name="HADSDRUNFEL DOWN POSE0007" x="756" y="0" width="756" height="1323" frameX="0" frameY="0" frameWidth="758" frameHeight="1323"/>
+	<SubTexture name="HADSDRUNFEL DOWN POSE0008" x="756" y="0" width="756" height="1323" frameX="0" frameY="0" frameWidth="758" frameHeight="1323"/>
+	<SubTexture name="HADSDRUNFEL DOWN POSE0009" x="756" y="0" width="756" height="1323" frameX="0" frameY="0" frameWidth="758" frameHeight="1323"/>
+	<SubTexture name="HADSDRUNFEL DOWN POSE0010" x="756" y="0" width="756" height="1323" frameX="0" frameY="0" frameWidth="758" frameHeight="1323"/>
+	<SubTexture name="HADSDRUNFEL DOWN POSE0011" x="756" y="0" width="756" height="1323" frameX="0" frameY="0" frameWidth="758" frameHeight="1323"/>
+	<SubTexture name="HADSDRUNFEL DOWN POSE0012" x="756" y="0" width="756" height="1323" frameX="0" frameY="0" frameWidth="758" frameHeight="1323"/>
+	<SubTexture name="HADSDRUNFEL DOWN POSE0013" x="756" y="0" width="756" height="1323" frameX="0" frameY="0" frameWidth="758" frameHeight="1323"/>
+	<SubTexture name="HADSDRUNFEL DOWN POSE0014" x="756" y="0" width="756" height="1323" frameX="0" frameY="0" frameWidth="758" frameHeight="1323"/>
+	<SubTexture name="Hadsdrunfel Idle0000" x="1512" y="0" width="756" height="1323" frameX="-3" frameY="-2" frameWidth="775" frameHeight="1325"/>
+	<SubTexture name="Hadsdrunfel Idle0001" x="1512" y="0" width="756" height="1323" frameX="-3" frameY="-2" frameWidth="775" frameHeight="1325"/>
+	<SubTexture name="Hadsdrunfel Idle0002" x="2268" y="0" width="756" height="1323" frameX="-5" frameY="-2" frameWidth="775" frameHeight="1325"/>
+	<SubTexture name="Hadsdrunfel Idle0003" x="2268" y="0" width="756" height="1323" frameX="-5" frameY="-2" frameWidth="775" frameHeight="1325"/>
+	<SubTexture name="Hadsdrunfel Idle0004" x="3024" y="0" width="756" height="1323" frameX="-19" frameY="-2" frameWidth="775" frameHeight="1325"/>
+	<SubTexture name="Hadsdrunfel Idle0005" x="3024" y="0" width="756" height="1323" frameX="-19" frameY="-2" frameWidth="775" frameHeight="1325"/>
+	<SubTexture name="Hadsdrunfel Idle0006" x="0" y="1323" width="756" height="1323" frameX="0" frameY="-1" frameWidth="775" frameHeight="1325"/>
+	<SubTexture name="Hadsdrunfel Idle0007" x="0" y="1323" width="756" height="1323" frameX="0" frameY="-1" frameWidth="775" frameHeight="1325"/>
+	<SubTexture name="Hadsdrunfel Idle0008" x="756" y="1323" width="756" height="1323" frameX="-2" frameY="0" frameWidth="775" frameHeight="1325"/>
+	<SubTexture name="Hadsdrunfel Idle0009" x="756" y="1323" width="756" height="1323" frameX="-2" frameY="0" frameWidth="775" frameHeight="1325"/>
+	<SubTexture name="Hadsdrunfel Idle0010" x="756" y="1323" width="756" height="1323" frameX="-2" frameY="0" frameWidth="775" frameHeight="1325"/>
+	<SubTexture name="Hadsdrunfel Idle0011" x="756" y="1323" width="756" height="1323" frameX="-2" frameY="0" frameWidth="775" frameHeight="1325"/>
+	<SubTexture name="Hadsdrunfel Idle0012" x="756" y="1323" width="756" height="1323" frameX="-2" frameY="0" frameWidth="775" frameHeight="1325"/>
+	<SubTexture name="Hadsdrunfel Idle0013" x="756" y="1323" width="756" height="1323" frameX="-2" frameY="0" frameWidth="775" frameHeight="1325"/>
+	<SubTexture name="Hadsdrunfel Left Pose0000" x="1512" y="1323" width="756" height="1323" frameX="-10" frameY="-6" frameWidth="766" frameHeight="1329"/>
+	<SubTexture name="Hadsdrunfel Left Pose0001" x="1512" y="1323" width="756" height="1323" frameX="-10" frameY="-6" frameWidth="766" frameHeight="1329"/>
+	<SubTexture name="Hadsdrunfel Left Pose0002" x="2268" y="1323" width="756" height="1323" frameX="0" frameY="0" frameWidth="766" frameHeight="1329"/>
+	<SubTexture name="Hadsdrunfel Left Pose0003" x="2268" y="1323" width="756" height="1323" frameX="0" frameY="0" frameWidth="766" frameHeight="1329"/>
+	<SubTexture name="Hadsdrunfel Left Pose0004" x="2268" y="1323" width="756" height="1323" frameX="0" frameY="0" frameWidth="766" frameHeight="1329"/>
+	<SubTexture name="Hadsdrunfel Left Pose0005" x="2268" y="1323" width="756" height="1323" frameX="0" frameY="0" frameWidth="766" frameHeight="1329"/>
+	<SubTexture name="Hadsdrunfel Left Pose0006" x="2268" y="1323" width="756" height="1323" frameX="0" frameY="0" frameWidth="766" frameHeight="1329"/>
+	<SubTexture name="Hadsdrunfel Left Pose0007" x="2268" y="1323" width="756" height="1323" frameX="0" frameY="0" frameWidth="766" frameHeight="1329"/>
+	<SubTexture name="Hadsdrunfel Left Pose0008" x="2268" y="1323" width="756" height="1323" frameX="0" frameY="0" frameWidth="766" frameHeight="1329"/>
+	<SubTexture name="Hadsdrunfel Left Pose0009" x="2268" y="1323" width="756" height="1323" frameX="0" frameY="0" frameWidth="766" frameHeight="1329"/>
+	<SubTexture name="Hadsdrunfel Pose Left0000" x="3024" y="1323" width="756" height="1323" frameX="-4" frameY="-1" frameWidth="760" frameHeight="1324"/>
+	<SubTexture name="Hadsdrunfel Pose Left0001" x="3024" y="1323" width="756" height="1323" frameX="-4" frameY="-1" frameWidth="760" frameHeight="1324"/>
+	<SubTexture name="Hadsdrunfel Pose Left0002" x="0" y="2646" width="756" height="1323" frameX="0" frameY="0" frameWidth="760" frameHeight="1324"/>
+	<SubTexture name="Hadsdrunfel Pose Left0003" x="0" y="2646" width="756" height="1323" frameX="0" frameY="0" frameWidth="760" frameHeight="1324"/>
+	<SubTexture name="Hadsdrunfel Pose Left0004" x="0" y="2646" width="756" height="1323" frameX="0" frameY="0" frameWidth="760" frameHeight="1324"/>
+	<SubTexture name="Hadsdrunfel Pose Left0005" x="0" y="2646" width="756" height="1323" frameX="0" frameY="0" frameWidth="760" frameHeight="1324"/>
+	<SubTexture name="Hadsdrunfel Pose Left0006" x="0" y="2646" width="756" height="1323" frameX="0" frameY="0" frameWidth="760" frameHeight="1324"/>
+	<SubTexture name="Hadsdrunfel Pose Left0007" x="0" y="2646" width="756" height="1323" frameX="0" frameY="0" frameWidth="760" frameHeight="1324"/>
+	<SubTexture name="Hadsdrunfel Pose Left0008" x="0" y="2646" width="756" height="1323" frameX="0" frameY="0" frameWidth="760" frameHeight="1324"/>
+	<SubTexture name="Hadsdrunfel Pose Left0009" x="0" y="2646" width="756" height="1323" frameX="0" frameY="0" frameWidth="760" frameHeight="1324"/>
+	<SubTexture name="Hadsdrunfel Up Pose0000" x="756" y="2646" width="756" height="1323" frameX="-9" frameY="0" frameWidth="765" frameHeight="1323"/>
+	<SubTexture name="Hadsdrunfel Up Pose0001" x="756" y="2646" width="756" height="1323" frameX="-9" frameY="0" frameWidth="765" frameHeight="1323"/>
+	<SubTexture name="Hadsdrunfel Up Pose0002" x="1512" y="2646" width="756" height="1323" frameX="0" frameY="0" frameWidth="765" frameHeight="1323"/>
+	<SubTexture name="Hadsdrunfel Up Pose0003" x="1512" y="2646" width="756" height="1323" frameX="0" frameY="0" frameWidth="765" frameHeight="1323"/>
+	<SubTexture name="Hadsdrunfel Up Pose0004" x="1512" y="2646" width="756" height="1323" frameX="0" frameY="0" frameWidth="765" frameHeight="1323"/>
+	<SubTexture name="Hadsdrunfel Up Pose0005" x="1512" y="2646" width="756" height="1323" frameX="0" frameY="0" frameWidth="765" frameHeight="1323"/>
+	<SubTexture name="Hadsdrunfel Up Pose0006" x="1512" y="2646" width="756" height="1323" frameX="0" frameY="0" frameWidth="765" frameHeight="1323"/>
+	<SubTexture name="Hadsdrunfel Up Pose0007" x="1512" y="2646" width="756" height="1323" frameX="0" frameY="0" frameWidth="765" frameHeight="1323"/>
+	<SubTexture name="Hadsdrunfel Up Pose0008" x="1512" y="2646" width="756" height="1323" frameX="0" frameY="0" frameWidth="765" frameHeight="1323"/>
+	<SubTexture name="Hadsdrunfel Up Pose0009" x="1512" y="2646" width="756" height="1323" frameX="0" frameY="0" frameWidth="765" frameHeight="1323"/>
+	<SubTexture name="Hadsdrunfel Up Pose0010" x="1512" y="2646" width="756" height="1323" frameX="0" frameY="0" frameWidth="765" frameHeight="1323"/>
+	<SubTexture name="Hadsdrunfel Up Pose0011" x="1512" y="2646" width="756" height="1323" frameX="0" frameY="0" frameWidth="765" frameHeight="1323"/>
+	<SubTexture name="Hadsdrunfel Up Pose0012" x="1512" y="2646" width="756" height="1323" frameX="0" frameY="0" frameWidth="765" frameHeight="1323"/>
+	<SubTexture name="Hadsdrunfel Up Pose0013" x="1512" y="2646" width="756" height="1323" frameX="0" frameY="0" frameWidth="765" frameHeight="1323"/>
+	<SubTexture name="Hadsdrunfel Up Pose0014" x="1512" y="2646" width="756" height="1323" frameX="0" frameY="0" frameWidth="765" frameHeight="1323"/>
+</TextureAtlas>

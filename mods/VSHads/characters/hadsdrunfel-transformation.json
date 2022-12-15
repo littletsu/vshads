@@ -1,0 +1,100 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				115,
+				42
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "HadsdrunfelArdido Idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				95,
+				42
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "HadsdrunfelArdido Up Pose",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				130,
+				42
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "HadsdrunfelArdido Pose Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				121,
+				42
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "HadsdrunfelArdido Left Pose",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				115,
+				42
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "HadsdrunfelArdido Idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				260,
+				40
+			],
+			"anim": "dies",
+			"fps": 24,
+			"name": "Hadsdrunfel FukingDieas Idle ",
+			"indices": []
+		},
+		{
+			"offsets": [
+				260,
+				40
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "dead",
+			"loop": true,
+			"name": "Hadsdrunfel Dead"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/HadsAsustao_Assets",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "icon-hadsdrunfel-transformation",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		90,
+		255
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 0.8
+}
